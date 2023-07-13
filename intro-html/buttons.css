@@ -1,4 +1,3 @@
-<style>
 .subscribe-button {
   background-color: rgb(201, 53, 53);
   color: white;
@@ -79,20 +78,3 @@ font-size: 10px;
 cursor: pointer;
 margin-left: 8px;
 }
-</style>
-
-<button class="subscribe-button">
-  SUBSCRIBE
-</button>
-
-<button class="join-button">
-  JOIN
-</button>
-
-<button class="tweet-button">
- Tweet
-</button>
-
-<button class="uber-button">
-Request now
-</button>
