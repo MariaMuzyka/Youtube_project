@@ -20,6 +20,7 @@
 }
 .sidebar-link:hover {
   background-color: rgb(235, 235, 235);
+  /*This style below will be inherited*/
 
 }
 .sidebar-link img{
@@ -27,7 +28,6 @@
   margin-bottom:4px;
 }
 .sidebar-link div{
-  font-family: Roboto, Arial;
   font-size: 10px;
 
 
